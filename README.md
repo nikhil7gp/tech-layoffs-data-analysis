@@ -5,14 +5,14 @@ This project helps you explore recent tech layoff trends using SQL. With just a 
 ## What's included?
 
 - **layoffs.csv:** The raw data of tech layoffs.
-- **17. Data_Cleaning.sql:** Cleans and prepares the data for analysis.
-- **18. Exploratory_Data_Analysis.sql:** Runs SQL queries to uncover key trends and insights.
+- **Data_Cleaning.sql:** Cleans and prepares the data for analysis.
+- **Exploratory_Data_Analysis.sql:** Runs SQL queries to uncover key trends and insights.
 
 ## How to use
 
 1. **Import the data:** Load `layoffs.csv` into your MySQL database.
-2. **Clean the data:** Run `17. Data_Cleaning.sql` to prepare the data for analysis.
-3. **Analyze:** Run `18. Exploratory_Data_Analysis.sql` to explore the data and find interesting patterns.
+2. **Clean the data:** Run `Data_Cleaning.sql` to prepare the data for analysis.
+3. **Analyze:** Run `Exploratory_Data_Analysis.sql` to explore the data and find interesting patterns.
 
 No advanced tools needed—just SQL and a bit of curiosity!
 
